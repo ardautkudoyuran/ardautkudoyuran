@@ -46,7 +46,7 @@ Yazılım geliştirme süreçlerine tutkuyla bağlıyım ve her gün kendimi yen
 
 ### 📫 Bana Ulaşın
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doyuran_ardautku/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doyuran.ardautku/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-utku-doyuran-829463214/) <!-- # İşareti yerine kendi LinkedIn profil linkini eklemeyi unutma! -->
   
 
