@@ -36,10 +36,10 @@ Yazılım geliştirme süreçlerine tutkuyla bağlıyım ve her gün kendimi yen
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardautkudoyuran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Arda's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardautkudoyuran&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardautkudoyuran&theme=tokyonight&hide_border=true" alt="Arda's GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardautkudoyuran&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardautkudoyuran&theme=tokyonight" alt="Stats Card" />
 </div>
 
 ---
