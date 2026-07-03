@@ -1,23 +1,53 @@
-# **HERKESE MERHABA BEN ARDA**
-+ Hacettepe Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="128" />
-+ Mobil uygulama, oyun geliştirme ve yapay zekaya ilgi duyuyorum.
-+ Kendimi her gün yazılım alanında daha iyi seviyeye getirmeye çalışıyorum.
+# Merhaba, Ben Arda! 👋
 
-# **KULLANDIĞIM VE İLGİLENDİĞİM TEKNOLOJİLER**
-+ JAVA <img align="left" alt="Java | Java" width="24px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
-+ GİT <img align="left" alt="Git | Git" width="24px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-+ UNİTY <img align="left" alt="Unity | Unity" width="24px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Unity-Dark.svg" />
-+ PYTHON <img align="left" alt="Python | Python" width="24px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-+ C# <img align="left" alt="C#| C#" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-+ SQL <img align="left" alt="Sql| Sql" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<a href="https://github.com/ardautkudoyuran">
+  <img align="right" src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coder.gif" width="300" alt="Coder GIF"/>
+</a>
 
-# **BANA ULAŞIN**
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-quare&labelColor=grey&logo=instagram&logoColor=white&link=https://www.instagram.com/doyuran_ardautku/)](https://www.instagram.com/doyuran_ardautku/)
+**Hacettepe Üniversitesi Bilgisayar Mühendisliği Öğrencisi** 🎓
 
-# **GİTHUB İSTATİSTİKLERİM**
+Yazılım geliştirme süreçlerine tutkuyla bağlıyım ve her gün kendimi yeni teknolojilerle donatmaya devam ediyorum. Softtech bünyesindeki staj deneyimimle profesyonel sektöre adım attım. Mobil uygulama, oyun geliştirme ve gömülü sistemler üzerine projeler üretiyor; algoritmik düşünme becerilerimi İnzva programlama etkinlikleri ve düzenli problem çözme pratikleriyle sürekli taze tutuyorum.
 
- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ardautkudoyuran&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardautkudoyuran&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+### 🚀 Neler Yapıyorum?
+- 💻 **Öğrenim & Gelişim:** Akademik eğitimime devam ederken bir yandan da sektör odaklı, güncel teknolojilerle projeler geliştiriyorum.
+- 🏆 **Problem Çözme:** Algoritma ve veri yapıları konusundaki yetkinliğimi İnzva etkinlikleri ile pekiştiriyorum.
+- 📱 **İlgi Alanlarım:** Mobil uygulama geliştirme, oyun programlama ve yapay zeka.
+
+<br/>
+
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
+
+**Diller:**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Mobil & Oyun Geliştirme:**
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
+**Veritabanı & Versiyon Kontrol:**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardautkudoyuran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Arda's GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardautkudoyuran&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Bana Ulaşın
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doyuran_ardautku/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-utku-doyuran-829463214/) <!-- # İşareti yerine kendi LinkedIn profil linkini eklemeyi unutma! -->
   
 
 
